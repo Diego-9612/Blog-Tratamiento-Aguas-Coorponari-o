@@ -1,9 +1,10 @@
+import logo from '../assets/logo.svg'
 export default function Header() {
     return (
 
         <>
             <header className="pt-16 mb-24 section-container">
-                <img src="/src/assets/logo.svg" alt="Logo" className="mx-auto my-16" />
+                <img src={logo} alt="Logo" className="mx-auto my-16" />
                 <h2 className="mb-8 text-4xl font-bold text-darkGrayishBlue md:text-5xl">La Clave para un Futuro Sostenible Esta en el Tratamiento de Aguas Residuales</h2>
                 <p className="max-w-3xl mx-auto mb-10 text-2xl text-grayishBlue">
                     El tratamiento de aguas residuales se basa en una serie de procesos diseñados para eliminar contaminantes y devolver el agua a la naturaleza o reutilizarla de manera segura.
