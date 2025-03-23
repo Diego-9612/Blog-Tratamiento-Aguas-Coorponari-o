@@ -1,4 +1,4 @@
-import ImagenT from '../../../public/tratamiento.jpg'
+import imagenT from '../../../public/tratamiento.jpg'
 export default function Tratamientos() {
     return (
 
@@ -7,7 +7,7 @@ export default function Tratamientos() {
                 <h3 className="md:mb-12">Principales Procesos de Tratamiento de Aguas Residuales</h3>
                 <div className="flex flex-col md:flex-row md:space-x-14 ">
                     <figure className="items-center md:w-1/2">
-                        <img src={ImagenT} alt="Tratamiendo de aguas" className="rounded-lg shadow-md shadow-black" />
+                        <img src={imagenT} alt="Tratamiendo de aguas" className="rounded-lg shadow-md shadow-black" />
                     </figure>
                     <ul className="flex flex-col gap-4 mt-10 space-y-2 text-xl md:w-1/2 md:text-left md:pl-16 md:mt-0">
                         <li>
