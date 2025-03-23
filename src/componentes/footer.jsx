@@ -1,10 +1,11 @@
+import Imagen from '../../public/logo.svg'
 export default function Footer() {
     return (
         <>
             <footer className="bg-gray-50">
                 <section className="section-container">
                     <div className="flex flex-col items-center justify-between md:flex-row">
-                        <img src="/src/assets/logo.svg" alt="Icono" className="scale-50" />
+                        <img src={Imagen} alt="Icono" className="scale-50" />
                         <span className="flex flex-col items-center justify-between flex-1 mb-10 space-y-6 md:flex-row md:mb-0 md:space-y-0 text-grayishBlue ">
                             <span className="flex flex-col space-y-4 text-center md:text-left">
                                 <div><a href="https://corponarino.gov.co/" className="hover:text-strongCyan">Creado para Corponariño</a></div>

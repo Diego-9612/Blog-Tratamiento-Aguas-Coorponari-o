@@ -1,3 +1,4 @@
+import AvanceI from '../../../public/avances.jpg'
 export default function Avances() {
     return (
 
@@ -30,11 +31,9 @@ export default function Avances() {
                     </li>
                 </ul>
                 <figure className="flex justify-center">
-                    <img src="/src/assets/avances.jpg" alt="Avances" className="rounded-lg shadow-md md:w-1/2 shadow-black" />
+                    <img src={AvanceI} alt="Avances" className="rounded-lg shadow-md md:w-1/2 shadow-black" />
                 </figure>
             </section>
-
         </>
-
     );
 }
