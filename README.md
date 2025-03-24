@@ -34,6 +34,6 @@ El blog está desplegado en el siguiente enlace:
 Este proyecto está licenciado bajo [MIT License](LICENSE).
 
 ## Contacto
-Autor: [Tu Nombre](https://github.com/tu-usuario)  
-Correo: tu-email@example.com
+Autor: Diego Fernando Guerrero   
+Correo: diego.guerrero9612@gmail.com
 
