@@ -1,12 +1,39 @@
-# React + Vite
+# Blog Ambiental: Tratamiento de Aguas Residuales
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descripción
+Este es un blog ambiental dedicado al tratamiento de aguas residuales. Su objetivo es informar y concienciar sobre tecnologías, procesos y mejores prácticas para la gestión del agua. El blog está desarrollado con Vite, React y Tailwind CSS para un rendimiento óptimo y una interfaz moderna.
 
-Currently, two official plugins are available:
+## Requisitos Previos
+Antes de instalar el proyecto, asegúrate de tener las siguientes dependencias y herramientas instaladas:
+- [Node.js](https://nodejs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Instalación
+Sigue estos pasos para instalar y configurar el proyecto:
 
-## Expanding the ESLint configuration
+## Uso
+Para ejecutar el proyecto en un entorno local:
+```bash
+npm run dev
+```
+Para generar una versión optimizada para producción:
+```bash
+npm run build
+```
+## Imágenes y Videos
+![image](https://github.com/user-attachments/assets/5a662c44-bc8d-479a-9bb5-99cbdb8c0c24)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## Despliegue
+El blog está desplegado en el siguiente enlace:
+🔗 [Ver Blog en Vivo](https://blog-tratamiento-aguas.vercel.app/)
+
+
+## Licencia
+Este proyecto está licenciado bajo [MIT License](LICENSE).
+
+## Contacto
+Autor: [Tu Nombre](https://github.com/tu-usuario)  
+Correo: tu-email@example.com
+
